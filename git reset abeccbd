@@ -1,0 +1,82 @@
+[33mcommit 7b323a25f4ce2536a16f0ae25f6cbd36e60c7be8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Michail Koryukin <kom1969@list.ru>
+Date:   Tue Nov 1 18:08:04 2022 +0500
+
+    Deleted new file
+
+[33mcommit 08eeb41b9e95816b2eb6eb446e543759f76d64ab[m
+Author: Michail Koryukin <kom1969@list.ru>
+Date:   Tue Nov 1 18:04:01 2022 +0500
+
+    Added new files
+
+[33mcommit bb9555b164e888a531ede6e11f9b2620b9e631ff[m
+Author: Michail Koryukin <kom1969@list.ru>
+Date:   Tue Nov 1 17:27:08 2022 +0500
+
+    Added new files
+
+[33mcommit 386f11e099813084270d171949f218ddf1ce66d4[m
+Author: Kom1969 <117139349+Kom1969@users.noreply.github.com>
+Date:   Tue Nov 1 14:35:45 2022 +0500
+
+    Update program.py
+
+[33mcommit 7d2586a00b83c6843bcdf1096d84eb039ae584a4[m
+Author: Kom1969 <117139349+Kom1969@users.noreply.github.com>
+Date:   Tue Nov 1 14:30:37 2022 +0500
+
+    Update program.py
+
+[33mcommit 38cc1cd97fc8f4e86a7ae7d6f854b6a157b588c7[m
+Author: Kom1969 <117139349+Kom1969@users.noreply.github.com>
+Date:   Tue Nov 1 11:45:15 2022 +0500
+
+    Update program.py
+
+[33mcommit 5cbeefcae4fb53de013869358b9e1a93bff53e23[m
+Author: Kom1969 <117139349+Kom1969@users.noreply.github.com>
+Date:   Tue Nov 1 10:54:34 2022 +0500
+
+    Update program.py
+
+[33mcommit bda5c41d014b6d64080d4220d744a05bea96978d[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Fri Oct 22 12:46:24 2021 +0300
+
+    Delete .gitignore
+    
+    Студенты должны самостоятельно создавать и наполнять этот файл.
+
+[33mcommit a8a17725e512be95f88d6ba6ab2f07d88d56db03[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Jun 2 12:00:52 2021 +0300
+
+    fixed tests launch
+
+[33mcommit d0bc9ed2155193a0fd4f4cf585e26371ced8ed3e[m
+Merge: 5757a20 5f83f04
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 5 08:48:01 2021 +0300
+
+    Merge pull request #11 from TurboKach/master
+    
+    changes
+
+[33mcommit 5f83f04d266e46abc40ab81787fef58ca1fd62bc[m
+Author: TurboKach <incognito@turbokach.me>
+Date:   Thu Apr 1 13:58:05 2021 +0300
+
+    2pac - changes
+
+[33mcommit 5757a2037d69aae4714dde5879914e0d9aa89742[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:14 2019 +0300
+
+    Create program.py
+
+[33mcommit fcbbab91fe56456ec6f5d90102b10899359604c1[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:10 2019 +0300
+
+    Initial commit
